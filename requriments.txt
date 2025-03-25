@@ -1,0 +1,4 @@
+Flask
+scrikit-learn 
+joblib
+gunicom
